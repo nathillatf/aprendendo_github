@@ -1,3 +1,5 @@
-git add . |
-git commit -m "alterando arquivo" |
+git add . 
+---
+git commit -m "alterando arquivo" 
+---
 git push
